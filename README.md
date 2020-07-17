@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kuan-Hao Chao 🧑🏻‍💻
+<img src="kuanhao_chao.png" style="height:100px">
 
 I'm an undergraduate student majoring in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html). In my fourth year, I went on exchange in [College of Engineering & Computer Science](https://cecs.anu.edu.au) at [the Australian National University (ANU)](https://www.anu.edu.au).
 
