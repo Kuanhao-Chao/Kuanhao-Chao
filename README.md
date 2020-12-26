@@ -5,4 +5,5 @@ I'm an *[Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php)* under
 I intend to apply for the 2021 Fall Ph.D. in computational biology in the USA. My primary research interest is to unfold real-world biological and medical problems using computational approaches like machine learning, algorithm design, mathematical model simulation, and software engineering, and I would like to conduct multi-omics research in my graduate study. I have developed two [Bioconductor](https://www.bioconductor.org/) R packages which are [RNASeqR (published in TCBB)](https://ieeexplore.ieee.org/document/8918337) and [sangeranalyseR (accepted at GBE with minor revisions)](https://doi.org/10.1101/2020.05.18.102459).
 
 ***>> Here is my [personal website](https://kuanhao-chao.github.io) <<***
+
 ***>> Here is my [self-introduction slides](https://slides.com/kuan-haochao/kuan-hao-chao) <<***
