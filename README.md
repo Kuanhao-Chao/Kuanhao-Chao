@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Kuan-Hao Chao <img src="https://kuanhao-chao.github.io/Kuanhao-Chao/kuanhao_chao.png">
 
+
+I'm a computer science Ph.D. student supervised by Steven Salzberg and Mihaela Pertea at Johns Hopkins University. 
+
+I got my B.S. in Engineering from 
+
+
 I'm an undergraduate majoring in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html). In my fourth year, I went on exchange to study at the [College of Engineering & Computer Science](https://cecs.anu.edu.au) at [the Australian National University (ANU)](https://www.anu.edu.au).
 
 Currently, I am working as a research assistant on elution profile-based protein complexes inference algorithm at
