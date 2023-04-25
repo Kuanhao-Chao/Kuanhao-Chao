@@ -7,4 +7,5 @@ I received my BS in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index
 
 My research interests are genome assembly and transcriptome (RNA sequencing). I am also passionate about developing open source bioinformatics tools and designing algorithms. I have developed two [Bioconductor](https://www.bioconductor.org/) R packages which are [RNASeqR](https://ieeexplore.ieee.org/document/8918337) and [sangeranalyseR](https://doi.org/10.1093/gbe/evab028).
 
+***>> Arrange a [coffee chat](https://calendly.com/kuanhao-chao/30min) with me ☕️***
 ***>> Here is my [personal website](https://kuanhao-chao.github.io) <<***
