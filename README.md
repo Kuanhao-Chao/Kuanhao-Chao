@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kuan-Hao Chao <img src="https://kuanhao-chao.github.io/Kuanhao-Chao/kuanhao_chao.png">
 
 
-🎓 I'm currently a third-year Ph.D. Candidate in Computer Science at the Center for Computational Biology, Johns Hopkins University, working with [Steven Salzberg](https://scholar.google.com/citations?user=sUVeH-4AAAAJ&hl=en) and [Mihaela Pertea](https://scholar.google.com/citations?user=fKjqGyEAAAAJ&hl=en). My academic journey started in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html), shifting towards computer science in my final year at the [College of Engineering & Computer Science](https://cecs.anu.edu.au) at [Australian National University (ANU)](https://www.anu.edu.au) 🦘🐨
+🎓 I'm currently a third-year Ph.D. Candidate in Computer Science at the Center for Computational Biology, Johns Hopkins University. My academic journey started in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html), shifting towards computer science in my final year at the [College of Engineering & Computer Science](https://cecs.anu.edu.au) at [Australian National University (ANU)](https://www.anu.edu.au) 🦘🐨
 
 <br>
 
